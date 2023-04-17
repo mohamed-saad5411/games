@@ -1,0 +1,7 @@
+.home {
+    height: 50vh;
+    background-image: url('../../assets/wraper.png');
+    background-position: center;
+    background-size: contain;
+    margin-top: 4rem;
+}
